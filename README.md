@@ -18,7 +18,6 @@ Node.js
 JavaScript
 PokéAPI
 prompt-sync (entrada de dados no terminal)
-
 ▶️ Como usar
 
 Execute o arquivo com:
@@ -37,15 +36,14 @@ Peso: 60
 Tipos: electric
 Habilidades: static, lightning-rod
 Evoluções: pichu -> pikachu -> raichu
-
 🧠 Estrutura do código
-
 🔹 Função consultarPokemon()
+
 Responsável por:
+
 Receber input do usuário
 Buscar dados do Pokémon na API
 Exibir as informações principais
-
 🔹 Função pegarEvolucoes(dados)
 Busca a cadeia evolutiva do Pokémon
 Percorre as evoluções usando um while
