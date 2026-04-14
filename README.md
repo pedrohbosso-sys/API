@@ -34,3 +34,14 @@ Execute o arquivo com:
 
 ```bash
 node app.js
+
+Digite o nome ou ID do Pokémon: pikachu
+
+=== DADOS DO POKÉMON ===
+Nome: pikachu
+ID: 25
+Altura: 4
+Peso: 60
+Tipos: electric
+Habilidades: static, lightning-rod
+Evoluções: pichu -> pikachu -> raichu
