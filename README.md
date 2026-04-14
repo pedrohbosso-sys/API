@@ -38,7 +38,7 @@ node app.js
 
 Digite o nome ou ID do Pokémon: pikachu
 
-## 📌 Exemplo de saída
+📌 Exemplo de saída
 
 === DADOS DO POKÉMON ===
 Nome: pikachu
